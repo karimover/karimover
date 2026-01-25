@@ -1,16 +1,17 @@
-## Hi there 👋
+# Frontend Portfolio
 
-<!--
-**karimover/karimover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет! 👋  
+Это мой репозиторий для хранения pet-проектов, учебных заданий и проектов со стажировок.  
 
-Here are some ideas to get you started:
+## О себе
+- Junior Frontend-разработчик
+- Стек: React, TypeScript, JavaScript, HTML5, CSS3
+- Интересуюсь продуктовой разработкой и пользовательским опытом
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Что здесь будет
+- Pet-проекты на React и TypeScript
+- Задания со стажировок
+- Практические эксперименты с UI/UX и API
+
+## Контакты
+- Email: karimover06@gmail.com
