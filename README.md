@@ -16,7 +16,7 @@ Frontend-разработчик, специализируюсь на React и Ty
 
 | Проект | Описание | Стек | Демо |
 |--------|----------|------|------|
-| [ReactCards App](https://github.com/karimover/ReactCards-App) | База знаний по React в формате карточек с авторизацией, темами и REST API | React 19, React Router, JSON Server | [Live](https://ссылка.onrender.com) |
+| [ReactCards App](https://github.com/karimover/ReactCards-App) | База знаний по React в формате карточек с авторизацией, темами и REST API | React 19, React Router, JSON Server | [Live](https://react-cards-app-k32k.onrender.com) |
 
 ## Контакты
 
