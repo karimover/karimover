@@ -17,6 +17,8 @@ Frontend-разработчик, специализируюсь на React и Ty
 | Проект | Описание | Стек | Демо |
 |--------|----------|------|------|
 | [ReactCards App](https://github.com/karimover/ReactCards-App) | База знаний по React в формате карточек с авторизацией, темами и REST API | React 19, React Router, JSON Server | [Live](https://react-cards-app-k32k.onrender.com) |
+| [MarketHub](https://github.com/karimover/markethub) | Frontend-панель управления магазином и маркетплейсом: аналитика, товары, заказы, клиенты, задачи и уведомления | React 19, TypeScript, TanStack Router, TanStack Query, TanStack Table, Zustand, Recharts, Tailwind CSS, shadcn/ui, Vite, Nitro | — |
+| [visual-diff](https://github.com/karimover/visual-diff) | Библиотека для строгой визуальной проверки UI по структуре DOM, computed styles и пикселям с fail-closed verdict | Node.js, JavaScript, pixelmatch, pngjs, ws, Playwright Chromium/CDP | — |
 
 ## Контакты
 
